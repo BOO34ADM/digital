@@ -1,0 +1,95 @@
+{
+  "services": [
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "description": "Stream unlimited movies and TV shows",
+      "logo": "🎬",
+      "color": "from-red-600 to-red-700",
+      "bgColor": "bg-red-50",
+      "borderColor": "border-red-200",
+      "plans": [
+        {
+          "duration": "1 Month",
+          "price": "30",
+          "currency": "DHS",
+          "features": ["HD Quality", "Multiple Devices", "Download Content"]
+        },
+        {
+          "duration": "6 Months",
+          "price": "60",
+          "currency": "DHS",
+          "features": ["HD Quality", "Multiple Devices", "Download Content", "Family Sharing"]
+        },
+        {
+          "duration": "1 Year",
+          "price": "100",
+          "currency": "DHS",
+          "features": ["4K Ultra HD", "Multiple Devices", "Download Content", "Family Sharing", "Premium Support"]
+        }
+      ]
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "description": "Listen to millions of songs and podcasts",
+      "logo": "🎵",
+      "color": "from-green-500 to-green-600",
+      "bgColor": "bg-green-50",
+      "borderColor": "border-green-200",
+      "plans": [
+        {
+          "duration": "1 Month",
+          "price": "30",
+          "currency": "DHS",
+          "features": ["Ad-free Music", "Offline Downloads", "High Quality Audio"]
+        },
+        {
+          "duration": "6 Months",
+          "price": "60",
+          "currency": "DHS",
+          "features": ["Ad-free Music", "Offline Downloads", "High Quality Audio", "Spotify Connect"]        
+        },
+        {
+          "duration": "1 Year",
+          "price": "100",
+          "currency": "DHS",
+          "features": ["Ad-free Music", "Offline Downloads", "Very High Quality", "Spotify Connect", "Priority Support"]
+        }
+      ]
+    },
+    {
+      "id": "canva",
+      "name": "Canva Pro",
+      "description": "Design anything with professional tools",
+      "logo": "🎨",
+      "color": "from-purple-500 to-purple-600",
+      "bgColor": "bg-purple-50",
+      "borderColor": "border-purple-200",
+      "plans": [
+        {
+          "duration": "1 Month",
+          "price": "30",
+          "currency": "DHS",
+          "features": ["Premium Templates", "Background Remover", "Magic Resize"]
+        },
+        {
+          "duration": "6 Months",
+          "price": "60",
+          "currency": "DHS",
+          "features": ["Premium Templates", "Background Remover", "Magic Resize", "Brand Kit"]
+        },
+        {
+          "duration": "1 Year",
+          "price": "100",
+          "currency": "DHS",
+          "features": ["Premium Templates", "Background Remover", "Magic Resize", "Brand Kit", "Priority Support"]
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "whatsapp": "+212123456789",
+    "message": "Hi! I'm interested in subscribing to digital services. Can you help me?"
+  }
+}
